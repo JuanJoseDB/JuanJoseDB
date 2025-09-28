@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Diaz</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate  developer from Mexico</h3>
 
 - 🌱 I’m currently learning **Phyton**
 
